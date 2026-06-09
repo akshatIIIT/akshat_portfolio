@@ -19,7 +19,7 @@ export const DATA = {
 
   // ── Social Links ───────────────────────────
   github: "https://github.com/akshatIIIT",
-  linkedin: "https://linkedin.com/in/yourusername",
+  linkedin: "https://www.linkedin.com/in/akshat-raj-8b605a323/",
   twitter: "",        // leave empty to hide
   resume: "https://docs.google.com/document/d/1NGltAFyad0o-sYvrkug3X9BjrHlsIa3muNh1sC3us4I/edit?usp=drive_link",        // link to your resume PDF
 
